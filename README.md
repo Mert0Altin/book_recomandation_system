@@ -1,5 +1,6 @@
 # book_recomandation_system
 video: https://youtu.be/7kFAqVl6EAo
+
 Description
 This project scrapes book ratings and related information from the website 1000kitap.com, stores the data in a CSV file, and then applies machine learning models to predict book ratings. The project is divided into two parts: web scraping and machine learning.
 
